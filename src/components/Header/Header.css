@@ -1,0 +1,14 @@
+.header {
+    grid-area: header;
+    background-color:aquamarine;
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .header__logo {
+    width: 4%;
+    border-radius: 30%;
+    justify-content: flex-start;
+    margin-left: 1%;
+  }

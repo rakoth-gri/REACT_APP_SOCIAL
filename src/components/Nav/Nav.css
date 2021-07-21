@@ -1,0 +1,10 @@
+.nav {
+    padding: 10% 0;
+    grid-area: nav;
+    background-color:burlywood;
+}
+  
+  .nav a {
+    display: block;
+    text-align: center;
+}
