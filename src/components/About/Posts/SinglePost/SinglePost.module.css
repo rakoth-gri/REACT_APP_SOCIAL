@@ -1,0 +1,8 @@
+.ava {
+    width: 2%;
+    border-radius: 40%;
+}
+
+i {
+    font-size: var(--main-fontSize);
+}

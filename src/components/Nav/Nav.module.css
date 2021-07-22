@@ -1,0 +1,16 @@
+.nav {
+    padding: 10% 0;
+    grid-area: nav;
+    background-color:burlywood;
+}
+  
+  .item {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #ffd;
+    font-weight: 500;
+    font-size: var(--main-fontSize);
+    margin: var(--small-margin);
+}
+
